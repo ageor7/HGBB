@@ -1,2 +1,37 @@
-<?xml version="1.0" ?><gpx xmlns="http://www.topografix.com/GPX/1/1" creator="GaiaGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"><trk><name>Νότια Διαδρομή, προτιμηθείσα</name><desc>Πηγή: 'Η μάχη των υπονόμων. Μ. Βρετανία: μια έκρηξη που δεν έγινε ποτέ | ΑΣΤΙΚΗ ΣΠΗΛΑΙΟΛΟΓΙΑ' (&lt;https://urbanspeleology.blogspot.com/2014/12/blog-post_25.html&gt;).
-Το υψομετρικό προφίλ προσεγγίζει, βάσει μοντέλου, την επίγεια διαδρομή όπως θα γινόταν σήμερα (2026), όχι την πραγματική υπόγεια του 1944.</desc><extensions><line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>ab4939</color></line></extensions><trkseg><trkpt lat="37.991961" lon="23.714429"><ele>38.9</ele></trkpt><trkpt lat="37.989583" lon="23.708933"><ele>40.0</ele></trkpt><trkpt lat="37.989322" lon="23.708746"><ele>40.1</ele></trkpt><trkpt lat="37.987991" lon="23.706611"><ele>30.1</ele></trkpt><trkpt lat="37.985967" lon="23.709502"><ele>39.9</ele></trkpt><trkpt lat="37.983679" lon="23.713798"><ele>43.6</ele></trkpt><trkpt lat="37.983902" lon="23.71457"><ele>43.0</ele></trkpt><trkpt lat="37.98279" lon="23.715147"><ele>52.8</ele></trkpt><trkpt lat="37.982461" lon="23.715301"><ele>53.0</ele></trkpt><trkpt lat="37.982084" lon="23.715669"><ele>47.6</ele></trkpt><trkpt lat="37.981768" lon="23.715952"><ele>45.1</ele></trkpt><trkpt lat="37.98154" lon="23.716143"><ele>43.2</ele></trkpt><trkpt lat="37.98113" lon="23.716463"><ele>47.8</ele></trkpt><trkpt lat="37.98073" lon="23.716744"><ele>50.2</ele></trkpt><trkpt lat="37.980991" lon="23.717301"><ele>55.2</ele></trkpt><trkpt lat="37.978963" lon="23.718768"><ele>39.2</ele></trkpt><trkpt lat="37.979488" lon="23.71986"><ele>50.7</ele></trkpt><trkpt lat="37.978034" lon="23.720902"><ele>47.5</ele></trkpt><trkpt lat="37.977778" lon="23.721313"><ele>47.9</ele></trkpt><trkpt lat="37.977367" lon="23.721277"><ele>48.8</ele></trkpt><trkpt lat="37.975664" lon="23.73403"><ele>87.8</ele></trkpt><trkpt lat="37.976179" lon="23.734324"><ele>92.6</ele></trkpt><trkpt lat="37.976032" lon="23.735504"><ele>87.9</ele></trkpt></trkseg></trk></gpx>
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="GaiaGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <name>Νότια Διαδρομή, προτιμηθείσα</name>
+    <desc>Πηγή: 'Η μάχη των υπονόμων. Μ. Βρετανία: μια έκρηξη που δεν έγινε ποτέ | ΑΣΤΙΚΗ ΣΠΗΛΑΙΟΛΟΓΙΑ' (https://urbanspeleology.blogspot.com/2014/12/blog-post_25.html). Το υψομετρικό προφίλ προσεγγίζει, βάσει μοντέλου, την επίγεια διαδρομή όπως θα γινόταν σήμερα (2026), όχι την πραγματική υπόγεια του 1944.</desc>
+    <extensions>
+      <line xmlns="http://www.topografix.com/GPX/gpx_style/0/2">
+        <color>ab4939</color>
+      </line>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.991961" lon="23.714429"><ele>38.9</ele></trkpt>
+      <trkpt lat="37.989583" lon="23.708933"><ele>40.0</ele></trkpt>
+      <trkpt lat="37.989322" lon="23.708746"><ele>40.1</ele></trkpt>
+      <trkpt lat="37.987991" lon="23.706611"><ele>30.1</ele></trkpt>
+      <trkpt lat="37.985967" lon="23.709502"><ele>39.9</ele></trkpt>
+      <trkpt lat="37.983679" lon="23.713798"><ele>83.6</ele></trkpt>
+      <trkpt lat="37.983902" lon="23.71457"><ele>43.0</ele></trkpt>
+      <trkpt lat="37.98279" lon="23.715147"><ele>52.8</ele></trkpt>
+      <trkpt lat="37.982461" lon="23.715301"><ele>53.0</ele></trkpt>
+      <trkpt lat="37.982084" lon="23.715669"><ele>47.6</ele></trkpt>
+      <trkpt lat="37.981768" lon="23.715952"><ele>45.1</ele></trkpt>
+      <trkpt lat="37.98154" lon="23.716143"><ele>43.2</ele></trkpt>
+      <trkpt lat="37.98113" lon="23.716463"><ele>47.8</ele></trkpt>
+      <trkpt lat="37.98073" lon="23.716744"><ele>50.2</ele></trkpt>
+      <trkpt lat="37.980991" lon="23.713301"><ele>55.2</ele></trkpt>
+      <trkpt lat="37.978963" lon="23.718768"><ele>39.2</ele></trkpt>
+      <trkpt lat="37.979488" lon="23.71986"><ele>50.7</ele></trkpt>
+      <trkpt lat="37.978034" lon="23.720902"><ele>47.5</ele></trkpt>
+      <trkpt lat="37.977778" lon="23.721313"><ele>47.9</ele></trkpt>
+      <trkpt lat="37.977367" lon="23.721277"><ele>48.8</ele></trkpt>
+      <trkpt lat="37.975664" lon="23.73403"><ele>87.8</ele></trkpt>
+      <trkpt lat="37.96179" lon="23.734324"><ele>92.6</ele></trkpt>
+      <trkpt lat="37.976032" lon="23.735504"><ele>87.9</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
